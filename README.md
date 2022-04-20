@@ -3,7 +3,7 @@
 This assignment purpose is to implement the same linux command of ```tree -pugs``` in C language
 
 ### Running Example (tree linux command):
-[tree pugs]("https://github.com/kggold4/advanced-programming-ex2/screenshots/tree_pugs.png")
+![tree pugs]("https://github.com/kggold4/advanced-programming-ex2/screenshots/tree_pugs.png")
 
 The code of this task is in the ```stree.c``` file, to compile this code in linux run:
 
@@ -34,4 +34,4 @@ Will show the full tree of directories and file of the current directory path, o
 Will show the full tree of directories and file of the given directory path.
 
 ### Running Example (stree [my code]):
-[stree]("https://github.com/kggold4/advanced-programming-ex2/screenshots/stree.png")
+![stree]("https://github.com/kggold4/advanced-programming-ex2/screenshots/stree.png")
