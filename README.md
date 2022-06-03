@@ -1,4 +1,4 @@
-# Advanced Programming Assignment 1
+# Advanced Programming Assignment 2
 
 This assignment purpose is to implement the same linux command of ```tree -pugs``` in C language
 
