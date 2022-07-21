@@ -1,0 +1,8 @@
+.vscode/*
+shell
+sshell
+temp
+colors.txt
+*.out
+main
+main.c
